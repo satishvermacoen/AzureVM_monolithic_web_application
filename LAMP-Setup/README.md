@@ -18,6 +18,7 @@ Apache is an amazing open-source web server. Let's install it using the followin
 ```
 sudo apt install apache2 -y
 ```
+![App Screenshot](https://github.com/satishvermacoen/Linux-Server-Depoly/blob/main/img/Screenshot%20(31).png)
 
 IF - FIREWALL-CONFIG
 that ALLOW
@@ -41,7 +42,7 @@ Command to install MySQL on ubuntu:
 sudo apt install mysql-server
 ```
 
-
+![App Screenshot](https://github.com/satishvermacoen/Linux-Server-Depoly/blob/main/img/Screenshot%20(32).png)
 
 You should be able to login to MySQL console by typing the following command:
 
@@ -71,5 +72,5 @@ Confirm the PHP installation by executing the below command:
 ```
 php -v
 ```
-
+![App Screenshot](https://github.com/satishvermacoen/Linux-Server-Depoly/blob/main/img/Screenshot%20(37).png)
 Congratulations! You have successfully installed LAMP stack on your server.
