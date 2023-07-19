@@ -69,4 +69,9 @@ Go to the browser and type 'http://your_domain_or_IP/phpmyadmin' in your URL bar
 
 You will be logged in to PHPMyAdmin.
 
+
+![App Screenshot](https://github.com/satishvermacoen/Linux-Server-Depoly/blob/main/img/Screenshot%20(48).png)
+
+
+
 > Enjoy managing your MySQL databases with ease and security. Happy coding!

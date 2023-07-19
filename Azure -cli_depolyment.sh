@@ -53,6 +53,7 @@ for i in `seq 1`; do
         --location $Location \
         --size Standard_B1s \
         --image UbuntuLTS \
+        --public-ip-address web-ip \
         --custom-data cloud-init.txt
 done
 
